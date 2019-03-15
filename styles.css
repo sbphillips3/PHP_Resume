@@ -1,0 +1,11 @@
+li a:hover {
+    background-color: lightgreen;
+}
+
+.col-sm {
+    padding-top: 5px;
+}
+
+.nav-item{
+    border-left: 2px solid black;
+}
